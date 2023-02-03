@@ -51,10 +51,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Badges
-
-![badmath](https://img.shields.io/github/license/:PatL8822/:gooogle_book_search)
-
 ## Screen Shot
 ![Screenshot (54)](https://user-images.githubusercontent.com/110148234/216530236-643dc47c-ca44-41c6-9cdc-f4d7685b7f6d.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/110148234/216530242-9f722c4e-28c9-40e0-9849-7173c91c49df.png)
